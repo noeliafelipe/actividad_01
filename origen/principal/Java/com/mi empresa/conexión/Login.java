@@ -11,7 +11,7 @@ import java.sql.Statement;
 import javax.swing.JOptionPane;
 import java.util.ArrayList; /**
  *
- * @author adan
+ * @author noelia
  */
 
 public class Login extends javax.swing.JFrame {
